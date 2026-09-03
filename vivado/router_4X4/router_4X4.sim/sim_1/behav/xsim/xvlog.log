@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ganesh/4X4_router_project/rtl/router_decoder.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module router_decoder
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ganesh/4X4_router_project/tb/router_decoder_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module router_decoder_tb
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ganesh/4X4_router_project/vivado/router_4X4/router_4X4.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl

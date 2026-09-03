@@ -1,7 +1,0 @@
-0.7
-2020.2
-Jun 16 2026
-11:12:08
-/home/ganesh/4X4_router_project/rtl/router_decoder.v,1788417481,verilog,,/home/ganesh/4X4_router_project/tb/router_decoder_tb.v,,router_decoder,,,../../../../../../../xilinix_vivado/2026.1/data/rsb/busdef,,,,,
-/home/ganesh/4X4_router_project/tb/router_decoder_tb.v,1788417627,verilog,,,,router_decoder_tb,,,../../../../../../../xilinix_vivado/2026.1/data/rsb/busdef,,,,,
-/home/ganesh/4X4_router_project/vivado/router_4X4/router_4X4.sim/sim_1/behav/xsim/glbl.v,1773749341,verilog,,,,glbl,,,,,,,,
