@@ -1,0 +1,20 @@
+# Ignore Vivado project directories
+vivado/
+
+# Ignore Vivado log and journal files
+*.jou
+*.log
+*.str
+*.pb
+
+# Ignore simulation databases and cache
+*.wdb
+*.dir/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# OS generated files (optional but recommended)
+.DS_Store
+Thumbs.db
